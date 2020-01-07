@@ -908,7 +908,7 @@ body a:hover {
 
 .breaking_news {
     float: left;
-    padding: 8px 15px 12px 30px;
+    padding: 8px 17px 14px 31px;
     background-color: #000;
     position: relative;
 }
@@ -3738,8 +3738,10 @@ img.mobile1 {
 
 @media (max-width:1680px) {
     .move-text {
-        width: 97.5%;
-        margin-left: .8em;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        z-index: 9999;
     }
 }
 
