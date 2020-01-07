@@ -420,7 +420,7 @@ body a:hover {
 
 .cl-effect-18 a.effect1::before,
 .cl-effect-18 a.effect1::after {
-    left: 0% !important;
+    left: 12% !important;
 }
 
 .cl-effect-18 {
@@ -441,7 +441,7 @@ body a:hover {
 .cl-effect-18 a::before,
 .cl-effect-18 a::after {
     position: absolute;
-    width: 65px;
+    width: 50px;
     left: 20%;
     top: 75%;
     height: 2px;
@@ -488,7 +488,7 @@ body a:hover {
     background: #fff;
 }
 
-.cl-effect-18 a:hover::before,
+/* .cl-effect-18 a:hover::before,
 .cl-effect-18 a:focus::before,
 .cl-effect-18 a.active::before,
 .cl-effect-18 a.active:focus::before {
@@ -504,7 +504,7 @@ body a:hover {
     -webkit-transform: rotate(-45deg);
     -moz-transform: rotate(-45deg);
     transform: rotate(-45deg);
-}
+} */
 
 /*-- //nav-effect --*/
 
